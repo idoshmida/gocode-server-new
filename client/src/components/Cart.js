@@ -43,7 +43,7 @@ function Cart() {
 
   return (
     <div>
-      <p>this is the cart:</p> <br></br>
+      <p>this is the cart wooho herouku:</p> <br></br>
       <div>Total Items: {cart.length}</div>
       <div>Total Cost: {getTotal(cart)}$ </div>
       <div>
